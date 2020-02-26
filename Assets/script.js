@@ -25,7 +25,7 @@ $(document).ready(function() {
     planTextArr = storedPlans;
   } else {
     planTextArr = new Array(9);
-    planTextArr[4] = "Picnic lunch outside";
+    planTextArr[4] = "Lunch with the Trilogy team";
   }
 
   if (test) { console.log("full array of plned text",planTextArr); }
