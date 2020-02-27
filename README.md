@@ -4,7 +4,7 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The purpose of the homework is to create a day planner. This day planner has a time range of 9am-5pm broken down by hour. Each hour is a field that you can click and type in a note for that hour. This note will be saved even if you close the browser. 
 
 ### Prerequisites
 
