@@ -20,4 +20,4 @@ Add additional notes about how to deploy this on a live system
 
 ## Author
 
-* **Mark Fomin** - *Initial work* - [PurpleBooth](https://github.com/mfomin93)
+* **Mark Fomin** - *Initial work* - [Github](https://github.com/mfomin93)
